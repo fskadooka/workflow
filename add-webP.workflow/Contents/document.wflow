@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>521.1</string>
+	<string>523</string>
 	<key>AMApplicationVersion</key>
 	<string>2.10</string>
 	<key>AMDocumentVersion</key>
@@ -311,7 +311,7 @@ done</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>504.000000:550.000000</string>
+				<string>504.000000:494.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -321,7 +321,7 @@ done</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>917FD60C-0037-4447-9C2B-16E16D693AAF</key>
+		<key>8E300AD9-0D99-43B2-A166-D224CF6FACB0</key>
 		<dict>
 			<key>from</key>
 			<string>EDF5FC26-45FE-486D-B8B8-CD9C94F35861 - EDF5FC26-45FE-486D-B8B8-CD9C94F35861</string>
