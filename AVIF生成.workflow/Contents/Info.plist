@@ -7,15 +7,22 @@
 		<dict>
 			<key>NSBackgroundColorName</key>
 			<string>background</string>
+			<key>NSBackgroundSystemColorName</key>
+			<string>systemPinkColor</string>
 			<key>NSIconName</key>
-			<string>NSTouchBarAdd</string>
+			<string>NSTouchBarRefresh</string>
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>PDF圧縮</string>
+				<string>AVIF生成</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
+			<key>NSRequiredContext</key>
+			<dict>
+				<key>NSApplicationIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
 			<key>NSSendFileTypes</key>
 			<array>
 				<string>public.item</string>
